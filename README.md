@@ -1,6 +1,6 @@
 ## NewAlbum   
 
-### 개인 앨범 웹앱 제작  
+### 앨범 웹앱 제작  
    
    
    ### 필수 설치 - requirements.txt
