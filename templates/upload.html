@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{{url_for('static', filename='upload.css')}}">
+  <title>upload</title>
+</head>
+<body>
+  <form id ='file' method="POST" enctype="multipart/form-data" action="./fileUpload">
+    <input type="file" name="file[]" multiple="" style='zoom: 1.5'>
+    <input type="submit" style='zoom: 1.5'>
+  </form>
+</body>
+</html>
