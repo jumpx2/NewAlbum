@@ -28,3 +28,4 @@
     
    3. 서버 자체 용량이 작아 웹앱이 불안정
    ```
+![Mar-31-2022 16-16-08](https://user-images.githubusercontent.com/81940655/160999205-e3d54793-539f-487f-93a9-6bde6cf24c42.gif)
